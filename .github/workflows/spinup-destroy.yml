@@ -13,7 +13,7 @@ env:
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
-  AZURE_WEBAPP_NAME: AndrewSouthpaw-ttt-app
+  AZURE_WEBAPP_NAME: andrewsouthpaw-ttt-app
   #################################################
 
 jobs:
