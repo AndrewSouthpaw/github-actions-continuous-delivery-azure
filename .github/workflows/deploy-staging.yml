@@ -1,14 +1,14 @@
 name: Stage the app
 
 env:
-  DOCKER_IMAGE_NAME: AndrewSouthpaw-azure-ttt
+  DOCKER_IMAGE_NAME: andrewsouthpaw-azure-ttt
   IMAGE_REGISTRY_URL: docker.pkg.github.com
   #################################################
   ### USER PROVIDED VALUES ARE REQUIRED BELOW   ###
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
-  AZURE_WEBAPP_NAME: AndrewSouthpaw-ttt-app
+  AZURE_WEBAPP_NAME: andrewsouthpaw-ttt-app
   #################################################
 
 on: 
